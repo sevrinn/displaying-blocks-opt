@@ -1,0 +1,54 @@
+.container {
+  background-color: tan;
+  padding: 20px;
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+}
+
+header {
+  padding: 0px auto;
+}
+header img {
+  height: 100px;
+  width: auto;
+}
+
+header .group {
+  margin-left: 30%;
+}
+
+.catandninja {
+  background-color: white;
+}
+
+.grid {
+  margin-left: 200px;
+}
+
+.row {
+  display: block;
+}
+
+.square {
+  border: solid black 4px;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.square img {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin: 25px auto;
+}
+.blue {
+  background-color: lightskyblue;
+}
+
+.pink {
+  background-color: salmon;
+}
